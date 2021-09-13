@@ -13,7 +13,7 @@ int main()
 
     //teeeeeeeeeeeeeeeeest
     while (ongoingGame=true)
-    {
+    {// kommentar
         bool ongoingRound = true;
         spelareSumma = 0, datorSumma = 0;
         cout << "Välkommen till tärningsspelet!\nDitt nuvarande saldo är: " << konto << ". Vill du sätta in mer? Max 5000kr åt gången. 'Y|N'" << endl;
